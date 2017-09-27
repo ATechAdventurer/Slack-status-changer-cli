@@ -1,0 +1,12 @@
+{
+  "name": "slack-status-updater",
+  "version": "1.0.0",
+  "author": "Cameron Steele (manosteele91827)",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
