@@ -12,8 +12,13 @@ Inspired by [Paul Poulsen](https://github.com/ppoulsen)'s [Spotify Slack Status 
 ## Example Icons
 | Icon          | Slack Icon    |
 | ------------- | -------------:|
+| :joy:         | ``:joy:``     |
+|:neutral_face: | ``:neutral_face:``|
 | :angry:       | ``:angry:``   |
 | :+1:          | ``:+1:``      |
 | :eggplant:    | ``:eggplant:``|
 | :shipit:      | ``:shipit:``  |
-| :shit:        | ``:shit:``     |
+| :shit:        | ``:shit:``    |
+| :zzz:         | ``:zzz:``     |
+| :fire:        | ``:fire:``    |
+
