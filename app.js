@@ -25,15 +25,15 @@ let setSlackStatus = (statusText, statusEmoji, accessToken) => {
     const fullUrl = `${baseUrl}?token=${accessToken}&profile=${encodedProfile}`;
     request.post({
         url: fullUrl,
-    }, (error, response, body) => {
-        if (error || response.statusCode >= 400) {
-        reject(error || new Error('Failed to set Slack status'));
-    } else {
-        resolve(statusText);
-        console.log("Status Has Been Changed");
-    }
-});
-});
+        }, (error, response, body) => {
+            if (error || response.statusCode >= 400) {
+                reject(error || new Error('Failed to set Slack status'));
+            } else {
+                resolve(statusText);
+                console.log("Status Has Been Changed");
+            }
+        });
+    });
 };
 
 
