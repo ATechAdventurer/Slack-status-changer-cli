@@ -18,7 +18,7 @@ Inspired by [Paul Poulsen](https://github.com/ppoulsen)'s [Spotify Slack Status 
 | :+1:          | ``:+1:``      |
 | :eggplant:    | ``:eggplant:``|
 | :shipit:      | ``:shipit:``  |
-| :shit:        | ``:shit:``    |
+| :poop:        | ``:poop:``    |
 | :zzz:         | ``:zzz:``     |
 | :fire:        | ``:fire:``    |
 
