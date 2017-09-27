@@ -2,7 +2,7 @@
 
 A simple CLI based tool for changing your slack status
 
-usage: node app.js [Status Message] [Status Icon] [Slack Token]
+Usage: node app.js [Status Message] [Status Icon] [Slack Token]
 
 
 To get your slack token [click here](https://api.slack.com/custom-integrations/legacy-tokens) 
